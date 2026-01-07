@@ -1,0 +1,6 @@
+# 伯索云课堂课程下载器 - 依赖列表
+# 安装命令: pip install -r requirements.txt
+
+customtkinter>=5.2.0
+httpx>=0.25.0
+pyinstaller>=6.0.0
